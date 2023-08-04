@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/cv",
+            "outputPath": "public",
             "index": "projects/cv/src/index.html",
             "main": "projects/cv/src/main.ts",
             "polyfills": [
